@@ -1,6 +1,5 @@
 # chorusDetect
 单段副歌标签标注时，2022年剔除训练集中翻唱歌曲后的随机测试结果:
-![image](https://github.com/ruwenda/chorusDetect/blob/main/single_labeled_result/example.png)
 ![image](https://github.com/ruwenda/chorusDetect/blob/main/single_labeled_result/6E1910381045A7733C3C72842E4D0236.wav.png)
 ![image](https://github.com/ruwenda/chorusDetect/blob/main/single_labeled_result/9D59464FF39D20ADD19DDCCB9739D74C.wav.png)
 ![image](https://github.com/ruwenda/chorusDetect/blob/main/single_labeled_result/4A179891AE5AEA2F7C8C7CB835D62CF0.wav.png)
